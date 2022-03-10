@@ -2,7 +2,7 @@
 
 ## Kurulum
 
-index.js 29, 37, 74, 75, 94, ve 100. satırları gerekli bilgilerle doldurun.
+index.js 24, 28, 64, 65, 84 ve 90. satırları gerekli bilgilerle doldurun.
 commands/kod-al.js 17. satırı gerekli bilgilerle doldurun.
 
 terminale / konsola npm i yazın ve hazırsınız. 
