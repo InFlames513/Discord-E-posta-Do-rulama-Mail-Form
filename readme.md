@@ -1,6 +1,6 @@
 ## Kodda büyük harflerle yazdığım yerler hariç hiç bir yerle oynamayın yoksa bozulur.
 
-![IMAGE](./ornek.mp4)
+![IMAGE](https://inflames.please-fuck.me/5qbaL08dG.gif)
 
 ## Kurulum
 
