@@ -1,6 +1,6 @@
 ## Kodda büyük harflerle yazdığım yerler hariç hiç bir yerle oynamayın yoksa bozulur.
 
-![VIDEO](https://discord.com/channels/876823457831211079/951277758451966062/951283707988279357)
+![IMAGE](https://discord.com/channels/876823457831211079/951277758451966062/951283707988279357)
 
 ## Kurulum
 
