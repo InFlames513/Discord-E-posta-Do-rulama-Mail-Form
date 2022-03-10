@@ -1,5 +1,7 @@
 ## Kodda büyük harflerle yazdığım yerler hariç hiç bir yerle oynamayın yoksa bozulur.
 
+https://discord.com/channels/876823457831211079/951277758451966062/951283707988279357
+
 ## Kurulum
 
 index.js 24, 28, 64, 65, 84 ve 90. satırları gerekli bilgilerle doldurun.
