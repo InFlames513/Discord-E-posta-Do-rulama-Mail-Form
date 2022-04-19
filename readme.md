@@ -4,16 +4,14 @@
 
 ## Kurulum
 
-index.js 24, 28, 64, 65, 84 ve 90. satırları gerekli bilgilerle doldurun.
+index.js 24, 28, 64, 65, 84 ve 90. satırları gerekli bilgilerle doldurun. <br>
 commands/kod-al.js 17. satırı gerekli bilgilerle doldurun.
 
-terminale / konsola npm i yazın ve hazırsınız. 
+terminale / konsola npm i yazın ve hazırsınız. <br> 
 Botu node index.js ile aktif edin!
 
 ## Hata
 Herhangi bir hatada ve ya sorunda;
 
-Discord: https://discord.gg/HFhyNaKUB6
-Web Site: https:/inflames.xyz/ (SSL hatası var site güvenilirdir, gelişmiş ayarlara basıp devam et e basın.)
-
-## Altyapıyı Paylaşmak Yasaktır Altyapı InFlames#2005'e Aittir!
+Discord: https://discord.gg/HFhyNaKUB6 <br>
+Web Site: https:/inflames.xyz/
