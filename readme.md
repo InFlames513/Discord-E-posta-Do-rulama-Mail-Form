@@ -14,4 +14,4 @@ Botu node index.js ile aktif edin!
 Herhangi bir hatada ve ya sorunda;
 
 Discord: https://discord.gg/HFhyNaKUB6 <br>
-Web Site: https:/inflames.xyz/
+Web Site: https://inflames.xyz/
