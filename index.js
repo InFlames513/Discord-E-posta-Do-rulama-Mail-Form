@@ -73,7 +73,7 @@ client.on('modalSubmit', async (modal) => {
       text: "/doğrula komutunu kullanarak epostanızı doğrulayabilirsiniz."
     };
     transporter.sendMail(bilgiler, function (error, info) {
-      if (error) return modal.reply("Girdiğiniz e-posta hatalı!");
+      if (error) return modal.channel.send("Girdiğiniz e-posta hatalı!");
 
       console.log('Eposta gönderildi ' + info.response);
     });
